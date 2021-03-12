@@ -17,7 +17,9 @@ Always give attribution even when no attribution is required.
 
 #### [google fonts](https://fonts.google.com)
 
-## Courses
+## Learning ressources
+
+### Courses
 
 #### [edx](https://udemy.com) 
 
@@ -32,6 +34,25 @@ Very good, though not always practical university level courses
 Treasure trove of small and larger courses (though rarely more than 5 hours); Good for a quick overview of a topic. Recommended course for a daily quick css fix: "css shorts"
 
 Huge variety of topics, from self improvement, project management, graphics to springboot, react and assembler. Very hit and miss quality. No autograded exercises, so active learning is recommended here.
+
+
+[freeCodeCamp] https://www.freecodecamp.org/
+
+Extremely good interactive course curriculum from basic html to machine learning. Apparently tons of videos and articles too, acdessible over the search form, appart from the base curriculum.
+
+### Free books
+
+[Elequent Javascript](https://eloquentjavascript.net/)
+
+Not a beginner book, hard but rewarding content.
+
+[You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS) 
+
+Deep dive in the inner workings of JS; Sometimes too deep; worth a read as they're pretty bite-sized.
+
+[Javascript Allongé](https://leanpub.com/javascriptallongesix/read)
+
+Probably the hardest read of these. Focus is less javascript than functional programming concepts and patterns. I agree with the criticized job interviewer when presented with a purely fp based solution to an interview question: "This person writes unreadable code".
 
 
 ## Other
