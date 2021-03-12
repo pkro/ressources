@@ -33,9 +33,11 @@ Very good, though not always practical university level courses
 
 [Linkedin learning](https://www.linkedin.com/learning/)  
 
-Treasure trove of small and larger courses (though rarely more than 5 hours); Good for a quick overview of a topic. Recommended course for a daily quick css fix: "css shorts"
+Treasure trove of small and larger courses (though rarely more than 5 hours); Good for a quick overview of a topic. 
 
 Huge variety of topics, from self improvement, project management, graphics to springboot, react and assembler. Very hit and miss quality. No autograded exercises, so active learning is recommended here.
+
+Recommended courses: "css shorts" for a short daily css fix (Chris Converse), "PHP: Object-Oriented Programming" and "PHP: Object-Oriented Programming with Databases" (Kevin Skoglund), "Building Declarative Apps Using Functional JavaScript" (Michael Rosata), "CSS: Transforms and Transitions" (Patrick Carey)
 
 [freeCodeCamp](https://www.freecodecamp.org/)
 
