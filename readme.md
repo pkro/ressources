@@ -35,8 +35,7 @@ Treasure trove of small and larger courses (though rarely more than 5 hours); Go
 
 Huge variety of topics, from self improvement, project management, graphics to springboot, react and assembler. Very hit and miss quality. No autograded exercises, so active learning is recommended here.
 
-
-[freeCodeCamp] https://www.freecodecamp.org/
+[freeCodeCamp](https://www.freecodecamp.org/)
 
 Extremely good interactive course curriculum from basic html to machine learning. Apparently tons of videos and articles too, acdessible over the search form, appart from the base curriculum.
 
