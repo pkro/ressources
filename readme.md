@@ -15,21 +15,21 @@ Always give attribution even when no attribution is required.
 
 ### Fonts
 
-#### [google fonts](https://fonts.google.com)
+[google fonts](https://fonts.google.com)
 
 ## Learning ressources
 
 ### Courses
 
-#### [edx](https://udemy.com) 
+[udemy](https://udemy.com) 
 
 Hit and miss, improving now with auto-graded coding exercises; don't take courses without challenge sections. Don't pay more than 12 euro, discounts are regular. Very helpful teaching assistants in the courses i took so far. Good forum section for each video. Huge amount of courses, and most courses have a huge amount of content for very little money.
 
-#### [edx](https://edx.org) 
+[edx](https://edx.org) 
 
 Very good, though not always practical university level courses
 
-#### [Linkedin learning](https://www.linkedin.com/learning/)  
+[Linkedin learning](https://www.linkedin.com/learning/)  
 
 Treasure trove of small and larger courses (though rarely more than 5 hours); Good for a quick overview of a topic. Recommended course for a daily quick css fix: "css shorts"
 
