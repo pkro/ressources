@@ -1,5 +1,7 @@
 # Ressources
 
+Ressources for programming, learning that are or at least were used extensively and productively to avoid bookmark rot.
+
 ## Content
 
 ### Images
@@ -21,7 +23,7 @@ Always give attribution even when no attribution is required.
 
 ### Courses
 
-[udemy](https://udemy.com) 
+[udemy](https://udemy.com)
 
 Hit and miss, improving now with auto-graded coding exercises; don't take courses without challenge sections. Don't pay more than 12 euro, discounts are regular. Very helpful teaching assistants in the courses i took so far. Good forum section for each video. Huge amount of courses, and most courses have a huge amount of content for very little money.
 
@@ -38,6 +40,16 @@ Huge variety of topics, from self improvement, project management, graphics to s
 [freeCodeCamp](https://www.freecodecamp.org/)
 
 Extremely good interactive course curriculum from basic html to machine learning. Apparently tons of videos and articles too, acdessible over the search form, appart from the base curriculum.
+
+### Youtube channels
+
+[Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+
+Mixed feelings on this one. Very well explained, good for getting a quick example application for a given technology going. Doesn't really scratch the surface more than the technology's quick start tutorial for example usually.
+
+**Don't browse**. The sheer amount of libraries and technologies covered overwhelms and depresses. Look it up as a quick start on technologies you're interested in.
+
+Recommended: [Social network theme with Sass](https://www.youtube.com/watch?v=IFM9hbapeA0)
 
 ### Free books
 
