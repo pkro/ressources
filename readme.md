@@ -9,6 +9,7 @@ Ressources for programming, learning that are or at least were used extensively 
 Always give attribution even when no attribution is required.
 
 [pexels](https://pexels.com) High quality, no attribution
+
 [unsplash](https://unsplash.com) High quality, no attribution
 
 ### Icons
@@ -19,6 +20,14 @@ Always give attribution even when no attribution is required.
 
 [google fonts](https://fonts.google.com)
 
+## Programming
+
+### Javascript
+
+#### Libraries
+
+[dayjs, 3 kb immutable replacement for moment js with mostly the same API](https://day.js.org/docs/en/installation/installation)
+
 ## Learning ressources
 
 ### Courses
@@ -27,13 +36,13 @@ Always give attribution even when no attribution is required.
 
 Hit and miss, improving now with auto-graded coding exercises; don't take courses without challenge sections. Don't pay more than 12 euro, discounts are regular. Very helpful teaching assistants in the courses i took so far. Good forum section for each video. Huge amount of courses, and most courses have a huge amount of content for very little money.
 
-[edx](https://edx.org) 
+[edx](https://edx.org)
 
 Very good, though not always practical university level courses
 
 [Linkedin learning](https://www.linkedin.com/learning/)  
 
-Treasure trove of small and larger courses (though rarely more than 5 hours); Good for a quick overview of a topic. 
+Treasure trove of small and larger courses (though rarely more than 5 hours); Good for a quick overview of a topic.
 
 Huge variety of topics, from self improvement, project management, graphics to springboot, react and assembler. Very hit and miss quality. No autograded exercises, so active learning is recommended here.
 
@@ -59,14 +68,13 @@ Recommended: [Social network theme with Sass](https://www.youtube.com/watch?v=IF
 
 Not a beginner book, hard but rewarding content.
 
-[You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS) 
+[You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
 Deep dive in the inner workings of JS; Sometimes too deep; worth a read as they're pretty bite-sized.
 
 [Javascript Allongé](https://leanpub.com/javascriptallongesix/read)
 
 Probably the hardest read of these. Focus is less javascript than functional programming concepts and patterns. I agree with the criticized job interviewer when presented with a purely fp based solution to an interview question: "This person writes unreadable code".
-
 
 ## Other
 
@@ -85,4 +93,3 @@ Large amount of languages, gamified. A lot of fun. English as the base ("from") 
 Very good and addicting spanish vocabulary trainer with good and user defined lists. Often phrases have many possible translations with no indication (except when clicking on the word) which one to use.
 
 Grammar / Conjugation section not tried yet.
-
