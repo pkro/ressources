@@ -22,6 +22,12 @@ Always give attribution even when no attribution is required.
 
 ## Programming
 
+### General
+
+[https://devdocs.io/](https://devdocs.io/)
+
+collected searchable documentation for many languages, libraries and tools
+
 ### Javascript
 
 #### Libraries
