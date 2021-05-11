@@ -4,6 +4,10 @@ Ressources for programming, learning that are or at least were used extensively 
 
 ## Content
 
+### General
+
+[dribbble.com](https://dribbble.com/) look for similar apps for design inspiration
+
 ### Images
 
 Always give attribution even when no attribution is required.
