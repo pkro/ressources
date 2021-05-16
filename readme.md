@@ -36,6 +36,11 @@ collected searchable documentation for many languages, libraries and tools
 
 Diagrams, Flowcharts
 
+[regex101](https://regex101.com/)
+
+Best regex testing site with an easy to memorize name
+
+
 ### Javascript
 
 #### Libraries
