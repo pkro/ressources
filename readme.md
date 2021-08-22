@@ -101,6 +101,8 @@ Probably the hardest read of these. Focus is less javascript than functional pro
 
 Pace yourself when learning or working. Set to > 25 minutes in settings.
 
+[Markdown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/)
+
 ## Lanugage learning
 
 [Duolingo](https://duolingo.com)
