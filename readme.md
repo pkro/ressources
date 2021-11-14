@@ -20,6 +20,8 @@ Always give attribution even when no attribution is required.
 
 [freeicons.io](https://freeicons.io/) With and without attribution
 
+[svgrepo](https://www.svgrepo.com/) Free svg icons, free commercial use, not attribution
+
 ### Fonts
 
 [google fonts](https://fonts.google.com)
