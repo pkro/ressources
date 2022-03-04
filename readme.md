@@ -8,6 +8,10 @@ Ressources for programming, learning that are or at least were used extensively 
 
 [dribbble.com](https://dribbble.com/) look for similar apps for design inspiration
 
+### Design
+
+[https://coolors.co](https://coolors.co) to create color paletes for site design
+
 ### Images
 
 Always give attribution even when no attribution is required.
